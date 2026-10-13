@@ -25,5 +25,3 @@ Allows public read-only access to objects:
 - How bucket policies control access
 - Difference between static and dynamic websites
 
-## Next Steps
-- Add CloudFront for HTTPS and faster delivery
